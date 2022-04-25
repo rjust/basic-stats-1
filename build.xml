@@ -1,4 +1,4 @@
-<project name="Basic Stats" default="compile" basedir=".">
+<project name="Basic Stats" default="test" basedir=".">
 
     <property name="junit.jar" value="lib/junit-4.11.jar"/>
 
