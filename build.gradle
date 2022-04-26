@@ -1,0 +1,16 @@
+plugins {
+  id 'application'
+}
+
+repositories {
+  jcenter()
+}
+
+dependencies {
+  testImplementation 'junit:junit:4.11'
+}
+
+application {
+  mainClassName 'BasicStats'
+}
+
